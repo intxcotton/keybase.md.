@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am intxcotton on github.
+  * I am sushii (https://keybase.io/sushii) on keybase.
+  * I have a public key ASBMmRD1E4H4PC0XIHbpapbf6rFZoUKoa9CA_TOdmrICPAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204c9910f51381f83c2d172076e96a96dfeab159a142a86bd080fd339d9ab2023c0a",
+      "host": "keybase.io",
+      "kid": "01204c9910f51381f83c2d172076e96a96dfeab159a142a86bd080fd339d9ab2023c0a",
+      "uid": "01e1d6277b22dab8cc7721cdcc0d6d19",
+      "username": "sushii"
+    },
+    "merkle_root": {
+      "ctime": 1568115120,
+      "hash": "d0ce40b00d0b18f7fb4941fe3e32d3c2208d2fb200f4136cb4cf3147cd01d9deb7164c66a284f0e51f98bcb4d009cabb505ef4ea1b9304337d24ee118f0043af",
+      "hash_meta": "024184e7d9210e7838b97ee4b4c77714beaed239b043e6d88c31e0ab4918a088",
+      "seqno": 6387764
+    },
+    "service": {
+      "entropy": "A+pdhiyQA+A91dXXKmjl0gnB",
+      "name": "github",
+      "username": "intxcotton"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568115125,
+  "expire_in": 504576000,
+  "prev": "8b1ad6165cdb83b0660518fdd746eae8b600f46fe235a191a6a83839f71321ff",
+  "seqno": 13,
+  "tag": "signature"
+}
+```
+
+with the key [ASBMmRD1E4H4PC0XIHbpapbf6rFZoUKoa9CA_TOdmrICPAo](https://keybase.io/sushii), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgTJkQ9ROB+DwtFyB26WqW3+qxWaFCqGvQgP0znZqyAjwKp3BheWxvYWTESpcCDcQgixrWFlzbg7BmBRj910bq6LYA9G/iNaGRpqg4OfcTIf/EIGRPeG0EmA8y6ZlLVpu8E8AV/Psp9yEG6tUEpSOWWXuOAgHCo3NpZ8RAkFlSBO1t6HjH2Du4pgsnV/dl1cNyg5Pk4XMuPtrqGtgor7KRN/X+huVwStwCX2C30dD5iDMRJdYi+239ADBXBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHWAssLAZkkpD1Jm9GHrdV9RNHB/1+DGg91E0WCMiR45o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/sushii
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id sushii
+```
